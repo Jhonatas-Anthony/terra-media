@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "Middle-earth",
+    "racas": "Races",
+    "genealogias": "Genealogies",
+    "mapa": "Map",
+    "timeline": "Timeline",
+    "fatos": "Facts",
+    "personagens": "Characters"
+  },
+  "welcome": "Welcome to Middle-earth! Here you can explore maps, genealogies, and important facts."
+}

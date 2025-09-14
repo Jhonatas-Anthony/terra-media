@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'MedievalSharp';
+  src: url('/src/assets/fonts/MedievalSharp-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cormorant Unicase';
+  src: url('/src/assets/fonts/CormorantUnicase-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IM Fell English';
+  src: url('/src/assets/fonts/IMFellEnglish-Regular.ttf') format('truetype');
+}

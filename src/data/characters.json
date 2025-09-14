@@ -1,0 +1,42 @@
+[
+  {
+    "id": "aragorn",
+    "name": "Aragorn II Elessar",
+    "race": "Humano (Dúnedain)",
+    "era": "Terceira Era",
+    "titles": ["Rei de Gondor e Arnor", "Portador de Andúril"],
+    "biography": "Descendente de Isildur, líder dos Dúnedain do Norte e membro da Sociedade do Anel. Tornou-se Rei Reunido de Gondor e Arnor após a Guerra do Anel.",
+    "locations": ["Valfenda", "Gondor", "Mordor"],
+    "important_events": [
+      "Participou da Sociedade do Anel",
+      "Corado rei em Minas Tirith após a derrota de Sauron"
+    ]
+  },
+  {
+    "id": "frodo",
+    "name": "Frodo Bolseiro",
+    "race": "Hobbit",
+    "era": "Terceira Era",
+    "titles": ["Portador do Um Anel"],
+    "biography": "Hobbit do Condado escolhido para levar o Um Anel até Mordor. Resistiu à tentação do Anel, mas não conseguiu destruí-lo sozinho.",
+    "locations": ["Condado", "Mordor"],
+    "important_events": [
+      "Recebeu o Um Anel de Bilbo",
+      "Viajour até Mordor para destruí-lo"
+    ]
+  },
+  {
+    "id": "gandalf",
+    "name": "Gandalf, o Cinzento",
+    "race": "Maia (Istari)",
+    "era": "Terceira Era",
+    "titles": ["Mago", "Membro da Sociedade do Anel", "O Branco"],
+    "biography": "Um dos cinco Istari enviados à Terra Média. Inicialmente conhecido como Gandalf, o Cinzento, retornou como Gandalf, o Branco, após enfrentar o Balrog em Moria.",
+    "locations": ["Valfenda", "Moria", "Gondor"],
+    "important_events": [
+      "Liderou a Sociedade após a queda de Saruman",
+      "Derrotou o Balrog em Moria",
+      "Guiou as forças do oeste contra Sauron"
+    ]
+  }
+]

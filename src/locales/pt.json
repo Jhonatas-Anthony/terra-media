@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "Terra Média",
+    "racas": "Raças",
+    "genealogias": "Genealogias",
+    "mapa": "Mapa",
+    "timeline": "Linha do Tempo",
+    "fatos": "Fatos",
+    "personagens": "Personagens"
+  },
+  "welcome": "Bem-vindo à Terra Média! Aqui você poderá explorar mapas, genealogias e fatos importantes."
+}

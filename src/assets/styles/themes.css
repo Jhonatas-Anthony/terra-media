@@ -1,0 +1,31 @@
+/* src/styles/themes.css */
+
+/* Tema Terra Média (padrão) */
+:root[data-theme="middle-earth"] {
+  --primary-color: #5b3a29;
+  --secondary-color: #a68b6d;
+  --highlight-color: #d9b57c;
+  --background-color: #f5f0e6;
+  --text-color: #2e2e2e;
+  --font-family: 'MedievalSharp', serif;
+}
+
+/* Tema Escuro (sombrio, estilo Mordor) */
+:root[data-theme="dark"] {
+  --primary-color: #1c1c1c;
+  --secondary-color: #333;
+  --highlight-color: #d9534f;
+  --background-color: #121212;
+  --text-color: #f5f5f5;
+  --font-family: 'Cormorant Unicase', serif;
+}
+
+/* Tema Elfico (claro, verde) */
+:root[data-theme="elven"] {
+  --primary-color: #2e5339;
+  --secondary-color: #8fb996;
+  --highlight-color: #d9e5d6;
+  --background-color: #f0f7f4;
+  --text-color: #1a1a1a;
+  --font-family: 'IM Fell English', serif;
+}
